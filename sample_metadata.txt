@@ -1,0 +1,19 @@
+sample_geo_accession	sample_title	cell_line	sgrna	treatment
+GSM1858934	sgLTR-F2-A-L1	LChIT clone 3.2	LTR362	None
+GSM1858935	sgLTR-F2-A-L2	LChIT clone 3.2	LTR362	None
+GSM1858936	sgLTR-F2-B-L1	LChIT clone 3.2	LTR362	None
+GSM1858937	sgLTR-F2-B-L2	LChIT clone 3.2	LTR362	None
+GSM1858938	sgLTR-F2-C-L1	LChIT clone 3.2	LTR362	None
+GSM1858939	sgLTR-F2-C-L2	LChIT clone 3.2	LTR362	None
+GSM1858940	sgRNA-Control-A-L1	LChIT clone 3.2	Control	None
+GSM1858941	sgRNA-Control-A-L2	LChIT clone 3.2	Control	None
+GSM1858942	sgRNA-Control-B-L1	LChIT clone 3.2	Control	None
+GSM1858943	sgRNA-Control-B-L2	LChIT clone 3.2	Control	None
+GSM1858944	sgRNA-Control-C-L1	LChIT clone 3.2	Control	None
+GSM1858945	sgRNA-Control-C-L2	LChIT clone 3.2	Control	None
+GSM1858946	TNF-A-L1	LChIT clone 3.2	Control	TNF
+GSM1858947	TNF-A-L2	LChIT clone 3.2	Control	TNF
+GSM1858948	TNF-B-L1	LChIT clone 3.2	Control	TNF
+GSM1858949	TNF-B-L2	LChIT clone 3.2	Control	TNF
+GSM1858950	TNF-C-L1	LChIT clone 3.2	Control	TNF
+GSM1858951	TNF-C-L2	LChIT clone 3.2	Control	TNF
